@@ -5,7 +5,7 @@ import '../Header/Header.css'
 const Header = () => {
     return (
         <header>
-            <h1>NOMBRE</h1>
+            <h1>NAME</h1>
             <Nav />
         </header>
     )
